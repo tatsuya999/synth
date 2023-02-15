@@ -1,8 +1,19 @@
-set_pin_assignment	{ cap1 }	{ LOCATION = E16; PULLTYPE = NONE; }
+set_pin_assignment	{ a1 }	{ LOCATION = A3; }
+set_pin_assignment	{ a2 }	{ LOCATION = A14; }
+set_pin_assignment	{ a3 }	{ LOCATION = E16; }
 set_pin_assignment	{ clk }	{ LOCATION = K14; }
-set_pin_assignment	{ out }	{ LOCATION = C16; }
-set_pin_assignment	{ res1 }	{ LOCATION = C15; PULLTYPE = NONE; }
-set_pin_assignment	{ vib1 }	{ LOCATION = F16; }
+set_pin_assignment	{ res1 }	{ LOCATION = A4; PULLTYPE = NONE; }
+set_pin_assignment	{ res2 }	{ LOCATION = B14; }
+set_pin_assignment	{ res3 }	{ LOCATION = C15; }
+set_pin_assignment	{ vib1 }	{ LOCATION = C5; }
+set_pin_assignment	{ vib2 }	{ LOCATION = B15; }
+set_pin_assignment	{ vib3 }	{ LOCATION = F16; }
+
+
+
+
+
+
 
 
 

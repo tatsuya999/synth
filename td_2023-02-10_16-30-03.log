@@ -571,3 +571,4 @@ HDL-1007 : analyze verilog file osc.v
 HDL-1007 : analyze verilog file dfilter.v
 HDL-1007 : analyze verilog file overtone.v
 HDL-1007 : analyze verilog file top.v
+HDL-1007 : analyze verilog file top.v
